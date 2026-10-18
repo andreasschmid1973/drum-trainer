@@ -1,0 +1,8 @@
+# Songs, Charts und abgeleitete Audiodaten gehören nicht ins öffentliche Repository
+*.mp3
+!ansagen/*.mp3
+*.pdf
+*.f32
+*.npz
+*.npy
+.DS_Store
